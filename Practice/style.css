@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2 {
+  color: rgb(23, 120, 91);
+}
+.browntext {
+  color: brown;
+  text-align: justify;
+    font-size: 20px;
+}
+p {
+    font-weight: 700;
+    padding: 100px;
+}
