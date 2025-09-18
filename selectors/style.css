@@ -1,0 +1,57 @@
+*{
+    margin: 20px;
+    padding: 0;
+    background-color: rgb(24, 255, 255);
+}
+p {
+    margin: 10px;
+    padding: 5px;
+}
+
+.h22{
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    padding: 20px;
+
+
+}
+#footer{
+    background-attachment: fixed;
+    background-color: rgb(255, 136, 0);
+    border-radius: 25px;
+}
+
+.h22:hover{
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+
+article p {
+    font-style: italic;
+    background-color: rgb(255, 255, 255);
+    /* border-radius: 25px; */
+    padding: 20px;
+}
+ div p{
+    background-color: #9b5252;
+ }
+div p:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+h1 + p {
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+p::first-letter{
+    font-weight: bold;
+    font-size: 20px;
+}
+h1,h2{
+    color: seagreen;
+    border: 2px;
+    padding: 10px;
+}
